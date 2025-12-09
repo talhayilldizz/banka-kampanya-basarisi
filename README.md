@@ -20,7 +20,8 @@ Amacımız, makine öğrenimi modelleri (Lojistik Regresyon, Rastgele Orman, KNN
 
 Kullanılan veri seti, Kaggle'da bulunan Bank Marketing Data Set'idir.
 
-* **Kaynak:** [Kaggle – Bank Marketing Data Set]((https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset/data))
+* **Kaynak:** [Kaynak: Kaggle – Bank Marketing Data Set](https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset/data)
+
 ---
 
 ## Kullanılan Teknolojiler
